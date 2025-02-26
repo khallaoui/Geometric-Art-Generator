@@ -1,7 +1,7 @@
 # Geometric-Art-Generator
 Geometric transformations on objects to generate Vera Molnár-style patterns through a canvas structure
 
-# S'eance 5 : Transformations simples et écriture de canvas
+#Transformations simples et écriture de canvas
 
 ## Description
 This project focuses on applying basic geometric transformations (translation, scaling, and rotation) to simple and composite objects. The goal is to create and manipulate a canvas to generate Vera Molnár-style patterns. The project involves creating structures and functions to transform objects and render them into SVG and HTML formats.
@@ -41,7 +41,4 @@ To rotate a point \( B(xB, yB) \) around a center \( O(xO, yO) \) by an angle \(
 2. Compile the project: `g++ -o test_draw_none_canvas test_draw_none_canvas.cpp`
 3. Run the main program: `./test_draw_none_canvas`
 4. Generate transformed canvases with the transformation program: `./test_draw_transform_canvas`
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
