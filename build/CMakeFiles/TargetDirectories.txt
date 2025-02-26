@@ -1,0 +1,5 @@
+C:/Users/Admin/Desktop/my cpp/partie5/build/CMakeFiles/svg_program.dir
+C:/Users/Admin/Desktop/my cpp/partie5/build/CMakeFiles/test_draw_transform_canvas.dir
+C:/Users/Admin/Desktop/my cpp/partie5/build/CMakeFiles/test_draw_none_canvas.dir
+C:/Users/Admin/Desktop/my cpp/partie5/build/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Desktop/my cpp/partie5/build/CMakeFiles/rebuild_cache.dir
